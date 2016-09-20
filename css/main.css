@@ -1,0 +1,63 @@
+/*primera seccion*/
+.fotogrande{
+	background-image: url(../img/home.jpg);
+	padding: 150px 0;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.chicas{
+	color: white;
+	font-size: 30px;
+}
+/*segunda seccion*/
+.ve{
+	font-size: 20px;
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 20px;
+}
+/*tercera seccion*/
+.code{
+	text-align: center;
+}
+/*cuarta seccion*/
+.mujer{
+	width: 100%;
+}
+.box{
+	background-color: yellow;
+	padding: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+/*quinta seccion*/
+.computador{
+	width: 100%;
+	margin-top: 70px;
+}
+.contacto{
+	padding-left: 10px;
+	font-size: 20px;
+}
+.fono{
+	padding-right: 100px;
+	font-size: 10px;
+}
+
+/*footer*/
+.diseno{
+	color: white;
+	font-size: 13px;
+}
+.caja{
+	background-color: #55BEE0;
+	height: 70px;
+	padding-top: 33px;
+	padding-left: 80px;
+	margin-top: 40px;
+}
+span{
+	color: yellow;
+}
